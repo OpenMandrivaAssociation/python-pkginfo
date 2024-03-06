@@ -1,7 +1,7 @@
 Summary:	Query metadata from sdists / bdists / installed packages
 Name:		python-pkginfo
-Version:	1.9.6
-Release:	2
+Version:	1.10.0
+Release:	1
 License:	MIT
 Group:		Development/Python
 URL:		https://pypi.org/project/pkginfo/
