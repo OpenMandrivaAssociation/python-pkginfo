@@ -1,6 +1,6 @@
 Summary:	Query metadata from sdists / bdists / installed packages
 Name:		python-pkginfo
-Version:	1.12.0
+Version:	1.12.1.2
 Release:	2
 License:	MIT
 Group:		Development/Python
